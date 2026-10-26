@@ -1,0 +1,10 @@
+{
+  "name": "em-dash-guard",
+  "version": "0.1.0",
+  "description": "Blocks writes that add an em dash (LinkedIn files exempt)",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

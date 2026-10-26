@@ -1,0 +1,11 @@
+{
+  "name": "nihongo",
+  "version": "0.1.0",
+  "description": "Japanese tutor in a pane: weighted kana drill, N5 word cards, and a sentence builder that corrects you against this week's grammar",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

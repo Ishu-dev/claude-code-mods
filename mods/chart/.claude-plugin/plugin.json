@@ -1,0 +1,10 @@
+{
+  "name": "chart",
+  "version": "0.1.0",
+  "description": "Gives Claude a tool that draws bar, line, area and donut charts inline in the chat",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

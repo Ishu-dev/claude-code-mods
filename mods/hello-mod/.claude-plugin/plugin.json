@@ -1,0 +1,11 @@
+{
+  "name": "hello-mod",
+  "version": "0.1.0",
+  "description": "Demo: turn band, rm -rf guard, /hi command",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

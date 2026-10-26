@@ -1,0 +1,10 @@
+{
+  "name": "diagram",
+  "version": "0.1.0",
+  "description": "Gives Claude a tool that draws flowcharts (boxes and arrows) inline in the chat",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

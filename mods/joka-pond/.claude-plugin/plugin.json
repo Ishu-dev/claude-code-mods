@@ -1,0 +1,11 @@
+{
+  "name": "joka-pond",
+  "version": "0.1.0",
+  "description": "Animated pond pane that levels up a consulting career as Claude works; open with /pond",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "change-ledger",
+  "version": "0.1.0",
+  "description": "Pane listing files edited this session; open with /changes",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

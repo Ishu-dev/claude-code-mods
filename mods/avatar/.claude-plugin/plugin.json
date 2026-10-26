@@ -1,0 +1,11 @@
+{
+  "name": "avatar",
+  "version": "0.1.0",
+  "description": "Pixel buddy above the prompt whose mood follows Claude: idle, thinking, happy, worried, sleepy",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

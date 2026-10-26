@@ -1,0 +1,11 @@
+{
+  "name": "interview-coach",
+  "version": "0.1.0",
+  "description": "Spoken mock interview in a pane: asks aloud, records you, measures WPM and fillers, coaches",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aurora",
+  "version": "0.1.0",
+  "description": "Truecolor generative visuals: aurora band above the prompt and a /visuals gallery pane",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Ishu Chaudhary",
+    "url": "https://github.com/Ishu-dev"
+  },
+  "license": "MIT"
+}
